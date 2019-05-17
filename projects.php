@@ -5,7 +5,6 @@
   </head>
   <body>
     <?php include('topbar.php'); ?>
-    <h1>Tesitn</h1>
     <div id="main-content">
         <div class="album py-5 bg-light">
             <div class="container">
